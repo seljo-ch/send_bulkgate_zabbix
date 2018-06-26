@@ -1,0 +1,1 @@
+# send_smsglobal_zabbix
