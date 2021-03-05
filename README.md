@@ -2,7 +2,7 @@
 # send_smsglobal_zabbix
 #
 
-On Zabbix you can send an alert through a SMS gateway. On this case, we'll be using SMSGLOBAL (www.smsglobal.com)
+On Zabbix you can send an alert through a SMS gateway. On this case, we'll be using BulkGate (www.bulkgate.com)
 
 What you'll need:
 
